@@ -1,0 +1,8 @@
+Open win terminal , head to settings go to settings.json and paste the code i have provided
+refresh the terminal, use command "$PROFILE" then "New-Item -Path $profile.CurrentUserAllHosts -Type File -Force" , this should create a profile in your Users C [docs] WindwosPowershell file 
+after that come back to terminal -> "winget install fastfetch"
+go to fastfetch folder , downlaod both , head to your username in C drive and create a new folder ".config" and make it hidden , inside it create a new folder "fastfetch" and put those 2 files into this 
+head to config file and change %USERNAME to your name 
+go back to your WindowsPowershell folder , copy the code from my powershell folder and paste it inside the profile.ps1 , dont forget to replace the username again.
+CTRL+S and close the file.
+TADA!!! ヾ(≧▽≦*)o
