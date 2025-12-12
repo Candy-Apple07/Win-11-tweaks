@@ -1,4 +1,4 @@
-# 🚧 Work in Progress
+#  Work in Progress
 
 This repo is where I’m collecting all my **Windows tweaks, scripts, and customization tools**.  
 You’ll find things like:
@@ -14,7 +14,7 @@ I’ll keep adding and improving things as I go.
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 Most of these scripts are safe, but please **read through them before running anything**.  
 Some tweaks do change system settings, so use them responsibly and at your own risk.
 
